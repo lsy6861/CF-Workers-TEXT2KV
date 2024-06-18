@@ -103,7 +103,7 @@ export default {
 			</style>
 			</head>
 			<body>
-			<h1>Welcome to nginx!</h1>
+			<h1>这是首页</h1>
 			<p>If you see this page, the nginx web server is successfully installed and
 			working. Further configuration is required.</p>
 			
